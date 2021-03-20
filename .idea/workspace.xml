@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0837af93-8f71-4600-b3ba-8777c458dcc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oCgNhHAMCyd8LwwGNNctWEmfx9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes App" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,html,css}" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\Notes App\images" />
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\Notes App\scripts" />
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\Hangman-old\scripts" />
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\boilerplate\public" />
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\boilerplate\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\Notes App" />
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\Hangman\src" />
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\Hangman\public" />
+      <recent name="D:\Mohamed\Courses\Vanilla JS\Notes and Todo Apps\Hangman-old" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0837af93-8f71-4600-b3ba-8777c458dcc7" name="Default Changelist" comment="" />
+      <created>1612795947615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612795947615</updated>
+      <workItem from="1612795948648" duration="977000" />
+      <workItem from="1612797346886" duration="171000" />
+      <workItem from="1612797528251" duration="80866000" />
+      <workItem from="1613667809706" duration="9765000" />
+      <workItem from="1613835673250" duration="9979000" />
+      <workItem from="1613934543011" duration="8414000" />
+      <workItem from="1614544806883" duration="614000" />
+      <workItem from="1614970177548" duration="112000" />
+      <workItem from="1615636284199" duration="300000" />
+      <workItem from="1616242143193" duration="4322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613835462413">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1613835462413" />
+    <state x="815" y="208" key="FileChooserDialogImpl" timestamp="1614267457344">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="815" y="208" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1614267457344" />
+    <state x="536" y="98" key="SettingsEditor" timestamp="1612799624212">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="536" y="98" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1612799624212" />
+    <state x="698" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1613840831981">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="698" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1613840831981" />
+  </component>
+</project>
